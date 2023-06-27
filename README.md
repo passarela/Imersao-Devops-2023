@@ -2,6 +2,8 @@
    <img src="./logo.png" alt="IDC" title="Imersão DevOps && Cloud" align="right" height="60" />
 </a>
 
+##Clone do Repositorio para aplicação pratica do Projeto Imersão Devops 2023
+
 # Imersão DevOps && Cloud
 
 Para acessar todas as aulas e lives, acesse: https://imersao.devopspro.com.br/
